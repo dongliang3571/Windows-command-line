@@ -2,6 +2,7 @@
 
 ### Comments
 
+Two ways to write comments
 ```cmd
 REM this is a comment
 :: another comment
